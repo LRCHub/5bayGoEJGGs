@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "アイノウ",
+  "base_artist": "コメティック",
+  "createdAt": "2026-02-16T14:54:44.389482Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイノウ",
+      "artist": "クアイフ",
+      "has_synced": true,
+      "path": "select/01_アイノウ_クアイフ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイノウ",
+      "artist": "コメティック",
+      "has_synced": false,
+      "path": "select/pl_01_アイノウ_コメティック.txt"
+    }
+  ]
+}
